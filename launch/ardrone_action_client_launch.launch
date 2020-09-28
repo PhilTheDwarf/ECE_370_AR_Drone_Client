@@ -1,0 +1,5 @@
+<launch>
+    <!-- Help. -->
+    <node pkg="ardrone_action_client" type="ardrone_client.py" name="ArdClient"  output="screen">
+    </node>
+</launch>
